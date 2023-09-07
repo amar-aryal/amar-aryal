@@ -1,7 +1,6 @@
 ### Hi there 👋
 <ul>
-  <li> 🌱 I’m currently learning Mobile Application Development. </li>
-  <li> 🔭 I’m currently a student. </li>
+  <li> 🌱 I’m currently working as a Flutter developer </li>
   <li> 📫 How to reach me: <a>amararyal878@gmail.com</a> </li>
 </ul>
 
